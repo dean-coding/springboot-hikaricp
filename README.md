@@ -1,6 +1,6 @@
 ## springboot+hikariCP 连接池
 
-<img src="./static/hicaricp-func.png" width="660px" height="400px"> 
+<img src="./static/hikaricp-func.png" width="660px" height="400px"> 
 
 hikariCP官网: 
 		
