@@ -21,7 +21,7 @@ SpringBoot创建默认DataSource时，规则如下：
 	    type: com.zaxxer.hikari.HikariDataSource
 	    
 ##
-<img src="./static/multi-persistent-process.png" width="660px" height="400px"> 	    
+<img src="./static/persistent-process.png" width="660px" height="400px"> 	    
 	    
 application-single.yml
 	
@@ -43,7 +43,7 @@ application-single.yml
 
 
 
-<img src="./static/persistent-process.png" width="660px" height="400px"> 
+<img src="./static/multi-persistent-process.png" width="660px" height="400px"> 
 
 application-multi.yml
 
