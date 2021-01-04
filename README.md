@@ -1,3 +1,7 @@
+## repo迁移：
+> https://github.com/dean-coding/java-framework-started-awesome/tree/master/springboot-hikaricp
+
+
 ## springboot+hikariCP 连接池
 
 <img src="./static/hikaricp-func.png" width="660px" height="400px"> 
