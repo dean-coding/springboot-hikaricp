@@ -1,5 +1,5 @@
 ## repo迁移：
-> https://github.com/dean-coding/java-framework-started-awesome/tree/master/springboot-hikaricp
+> https://github.com/dean-coding/java-framework-started-awesome/tree/by-springboot1.5.18/springboot-hikaricp
 
 
 ## springboot+hikariCP 连接池
